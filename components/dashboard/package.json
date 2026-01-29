@@ -94,7 +94,7 @@
     "@typescript-eslint/parser": "^5.5.0",
     "@useorbital/client-types": "^1.6.0",
     "autoprefixer": "^10.4.19",
-    "eslint": "^8.47.0",
+    "eslint": "^9.26.0",
     "eslint-config-react-app": "^7.0.1",
     "postcss": "^8.4.38",
     "react-scripts": "^5.0.1",

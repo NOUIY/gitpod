@@ -9,7 +9,7 @@ godebug tlsmlkem=0
 require (
 	github.com/alecthomas/jsonschema v0.0.0-20210526225647-edb03dcab7bc
 	github.com/containerd/containerd v1.6.36
-	github.com/docker/cli v25.0.1+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/docker v28.0.2+incompatible
 	github.com/docker/docker-credential-helpers v0.7.0 // indirect
 	github.com/golang/mock v1.6.0

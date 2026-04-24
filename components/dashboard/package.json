@@ -96,7 +96,7 @@
     "autoprefixer": "^10.4.19",
     "eslint": "^8.47.0",
     "eslint-config-react-app": "^7.0.1",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.10",
     "react-scripts": "^5.0.1",
     "tailwind-underline-utils": "^1.1.2",
     "tailwindcss-filters": "^3.0.0",

@@ -75,7 +75,7 @@ require (
 	github.com/danieljoos/wincred v1.1.0 // indirect
 	github.com/go-git/go-git/v5 v5.14.0
 	github.com/godbus/dbus/v5 v5.0.3 // indirect
-	github.com/gorilla/websocket v1.5.0 // indirect
+	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/klauspost/compress v1.17.0 // indirect
